@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 </a>
 
 
-<br >
+<br>
+<hr>
 <br />
 ![varuogm's github stats](https://github-readme-stats.vercel.app/api?username=varuogm&show_icons=true&hide_border=true)
 
